@@ -1,2 +1,1 @@
-# ae7e
-Lorem Ipsum (Examinatie DWO2)
+"Lorum Ipsum" 
